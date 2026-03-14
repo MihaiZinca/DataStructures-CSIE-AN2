@@ -1,0 +1,3 @@
+﻿  ldi.c
+E:\Facultate\An2Sem2\SDD\Lucru\Ex_Lista_Dubla\ldi.c(327,41): warning C4305: 'function': truncation from 'double' to 'float'
+  Ex_Lista_Dubla.vcxproj -> E:\Facultate\An2Sem2\SDD\Lucru\Ex_Lista_Dubla\x64\Debug\Ex_Lista_Dubla.exe
