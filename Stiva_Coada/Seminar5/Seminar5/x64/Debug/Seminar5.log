@@ -1,0 +1,4 @@
+﻿  sem5.c
+C:\Facultate\An2_Sem2\SDD\Seminar5\Seminar5\sem5.c(59,42): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Facultate\An2_Sem2\SDD\Seminar5\Seminar5\sem5.c(60,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Seminar5.vcxproj -> C:\Facultate\An2_Sem2\SDD\Seminar5\x64\Debug\Seminar5.exe
