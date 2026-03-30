@@ -1,0 +1,7 @@
+﻿  sem6.c
+C:\Facultate\An2_Sem2\SDD\Seminar6\Seminar6\sem6.c(64,42): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Facultate\An2_Sem2\SDD\Seminar6\Seminar6\sem6.c(65,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Facultate\An2_Sem2\SDD\Seminar6\Seminar6\sem6.c(181,55): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Facultate\An2_Sem2\SDD\Seminar6\Seminar6\sem6.c(182,54): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Facultate\An2_Sem2\SDD\Seminar6\Seminar6\sem6.c(184,53): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar6.vcxproj -> C:\Facultate\An2_Sem2\SDD\Seminar6\x64\Debug\Seminar6.exe
